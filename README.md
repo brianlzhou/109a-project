@@ -1,2 +1,2 @@
-# 109-project
-cs 109 final project
+# CS 109a final project
+Michael McPhie, Zani Xu, and Brian Zhou
